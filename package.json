@@ -1,7 +1,7 @@
 {
   "name": "ai-portfolio",
   "version": "1.0.0",
-  "description": "个人AI作品集网站 - 古风风格",
+  "description": "Menina的AI世界 - 可爱水蓝风格",
   "main": "index.html",
   "scripts": {
     "dev": "npx serve .",
@@ -12,11 +12,11 @@
     "AI",
     "portfolio",
     "vanta.js",
-    "古风"
+    "可爱风格"
   ],
-  "author": "",
+  "author": "Menina",
   "license": "MIT",
   "engines": {
-    "node": ">=18.0.0"
+    "node": "18.x"
   }
 }
