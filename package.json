@@ -1,0 +1,22 @@
+{
+  "name": "ai-portfolio",
+  "version": "1.0.0",
+  "description": "个人AI作品集网站 - 古风风格",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site, no build needed'",
+    "preview": "npx serve ."
+  },
+  "keywords": [
+    "AI",
+    "portfolio",
+    "vanta.js",
+    "古风"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
