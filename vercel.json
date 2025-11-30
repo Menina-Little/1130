@@ -1,9 +1,6 @@
 {
   "buildCommand": null,
   "outputDirectory": ".",
-  "images": {
-    "unoptimized": true
-  },
   "headers": [
     {
       "source": "/(.*)",
